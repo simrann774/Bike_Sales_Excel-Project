@@ -1,1 +1,2 @@
 # Bike_Sales_Excel-Project
+This project demonstrates the creation of an Excel Dashboard designed to analyze and visualize data effectively. The dashboard provides insights into key metrics, trends, and patterns, making data-driven decision-making easier.It provides us with understanding of Sales analysis,Customer behavior insights and  Financial reporting with the data given using Excel effectively.
